@@ -13,6 +13,3 @@
 ## Study Space 📚
 * [Notion](https://six-curio-477.notion.site/03-Development-d0d7eec2959f42a8ba350f3cc7c77e67?pvs=4)
 * [Blog](https://soddong.tistory.com/)
-
----
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gus9300)](https://solved.ac/gus9300/)
