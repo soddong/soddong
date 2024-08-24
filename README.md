@@ -12,10 +12,10 @@
 * Infrastructure & DevOps
 
 ## Personal Projects
-* Trip Planner (web service)   
+* [Trip Planner (web service)](https://github.com/soddong/i-like-trip)   
 Core Technologies: Vue, Spring
 
-* Family Community (web service)   
+* [Family Community (web service)](https://github.com/soddong/flolink)   
 Core Technologies: Spring, JPA
 
 * V2X-Based Driver Assistance Service (real-time vehicle service)   
