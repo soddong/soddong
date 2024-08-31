@@ -11,7 +11,7 @@
 * Backend Development
 * Infrastructure & DevOps
 
-## Personal Projects
+## Main Projects
 #### [Family Community](https://github.com/soddong/flolink)
 * Web Project  
 * Core Technologies: Spring, JPA
