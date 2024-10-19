@@ -14,8 +14,12 @@
 
 ## Main Projects
 #### [Family Community](https://github.com/soddong/flolink)
+* Web Project   
+* Core Technologies: Spring Batch, Redis, Nginx, Jenkins
+
+#### [Bank Education](https://github.com/soddong/i-don-care)
 * Web Project  
-* Core Technologies: Spring, JPA
+* Core Technologies: MSA, Spring Gateway, Spring Security, Docker
 
 #### [Trip Planner](https://github.com/soddong/i-like-trip)
 * Web Project
