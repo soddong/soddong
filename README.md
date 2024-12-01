@@ -13,6 +13,10 @@
 * Architecture
 
 ## Main Projects
+#### [Safe GoHome](https://github.com/soddong/wingwing)
+* Real-time Drone Service   
+* Core Technologies: Python(Drone Control), Kotlin(App)
+
 #### [Family Community](https://github.com/soddong/flolink)
 * Web Project   
 * Core Technologies: Spring Batch, Redis, Nginx, Jenkins
