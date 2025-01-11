@@ -1,7 +1,3 @@
-## Profile
-* Education: Information & Communication Engineering (2017-2021)
-* Career : Embedded Software Developer, Hyundai Mobis (2021-2023)
-
 ## Skills
 * Programming Languages: Java, C
 * Frameworks & Tools: Spring
